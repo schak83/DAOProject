@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cvv.springboot.h2.Springbooth2databaseApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.002 s - in com.cvv.springboot.h2.Springbooth2databaseApplicationTests
